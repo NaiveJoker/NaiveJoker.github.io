@@ -1,0 +1,24 @@
+body {
+    background-color: #66BAB7;
+}
+.upPage {
+    background-color: #66BAB7;
+    height: 500px;
+    padding: 50px 100px;
+    text-align: center;
+    color: #ffffff;
+}
+.footer {
+    padding: 10px 100px;
+    text-align: center;
+    background-color: #ffffff;
+    height: 50px;
+}
+ul {
+    display: inline-block;
+}
+img {
+    height: 20px;
+    width: 20px;
+}
+
